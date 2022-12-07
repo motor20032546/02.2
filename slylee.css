@@ -1,0 +1,38 @@
+body {
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 100%;
+  text-align: center;
+  
+}
+
+
+.oo{
+  color: rgb(58, 175, 204);
+  font-size: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+  
+}
+
+
+.iiiii{
+  max-width: 540px;
+  
+}
+
+.gg{
+  font-size: 35px;
+  color: rgb(58, 138, 204);
+}
+
+.gggg{
+  font-size: 20px;
+  color: rgb(63, 100, 86);
+  text-align: center;
+}
+
+.vv{
+  font-size: 35px;
+  color: rgb(58, 138, 204);
+}
